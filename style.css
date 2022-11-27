@@ -1,0 +1,11 @@
+#E {
+    height: 100px;
+    width: 100px;
+    background: rebeccapurple;
+    font-size: 9ch;
+    color: rgb(9, 215, 40);
+    padding-top: 30px;
+    padding-bottom: -50px;
+    margin: 10px;
+    text-align: left;
+}
